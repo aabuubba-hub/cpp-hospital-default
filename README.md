@@ -1,0 +1,1 @@
+# cpp-hospital-default
